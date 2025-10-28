@@ -1,0 +1,5 @@
+{
+  "name": "Chatbot",
+  "description": "A modern, clean web app chatbot interface inspired by WhatsApp bot dashboards. It allows users to ask questions, upload photos for analysis, and receive low-latency responses from the Gemini API.",
+  "requestFramePermissions": []
+}
